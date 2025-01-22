@@ -51,7 +51,7 @@ The dataset is sourced from Kaggle: [Quality Prediction in a Mining Process](htt
 
 ### 1. **Download repository**
 ```bash
-git@github.com:nicole-baltodano/Silica-concentrate-prediction.git
+git clone git@github.com:nicole-baltodano/Silica-concentrate-prediction.git
 ```
 
 ### 2. **Install Dependencies**
