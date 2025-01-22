@@ -55,10 +55,7 @@ git clone git@github.com:nicole-baltodano/Silica-concentrate-prediction.git
 ```
 
 ### 2. **Run the Jupyter notebook**
-Run the `main.py` file to execute the complete pipeline:
-```bash
-python main.py
-```
+Run the `jupyter notebook`. Skip the fine-tunning part and directly load and test the model
 
 ### 3. **Results**
 - Best model saved as `best_model.h5`.
