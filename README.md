@@ -4,6 +4,7 @@
 This project implements a Long Short-Term Memory (LSTM) model to predict the quality of silica concentrate in a mining process. The dataset contains information about various process variables, such as air flows, pulp levels, and chemical concentrations, which are used to predict the final product quality.
 
 The project includes data preprocessing, feature engineering, hyperparameter tuning, and training of the LSTM model to achieve optimal prediction performance.
+![image](https://github.com/user-attachments/assets/a5f6e500-7cac-4e05-8109-5f157ea084d2)
 
 ---
 
