@@ -49,13 +49,18 @@ The dataset is sourced from Kaggle: [Quality Prediction in a Mining Process](htt
 
 ## **How to Run the Project**
 
-### 1. **Install Dependencies**
+### 1. **Download repository**
+```bash
+git@github.com:nicole-baltodano/Silica-concentrate-prediction.git
+```
+
+### 2. **Install Dependencies**
 Install the required Python packages:
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. **Run the Workflow**
+### 3. **Run the Workflow**
 Run the `main.py` file to execute the complete pipeline:
 ```bash
 python main.py
