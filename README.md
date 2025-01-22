@@ -58,5 +58,5 @@ git clone git@github.com:nicole-baltodano/Silica-concentrate-prediction.git
 Run the `jupyter notebook`. Skip the fine-tunning part and directly load and test the model
 
 ### 3. **Results**
-- Best model saved as `best_model.h5`.
-- Best hyperparameters saved in `best_params.pkl`.
+![image](https://github.com/user-attachments/assets/ad0f81dc-77dc-4e70-8452-67c19507694f)
+
