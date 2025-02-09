@@ -59,7 +59,10 @@ git clone git@github.com:nicole-baltodano/Silica-concentrate-prediction.git
 Run the `jupyter notebook`. Skip the fine-tunning part and directly load and test the model
 
 ### 3. **Results**
-![image](https://github.com/user-attachments/assets/ad0f81dc-77dc-4e70-8452-67c19507694f)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/ad0f81dc-77dc-4e70-8452-67c19507694f" alt="Image Description">
+</p>
 
-![image](https://github.com/nicole-baltodano/nicole-baltodano.github.io/blob/main/images/time_series_silica.png)
-
+<p align="center">
+    <img src="https://github.com/nicole-baltodano/nicole-baltodano.github.io/blob/main/images/time_series_silica.png" alt="Silica Time Series">
+</p>
