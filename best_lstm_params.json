@@ -1,0 +1,1 @@
+{"seq_length": 6, "validation_split": 0.2, "batch_size": 16, "epochs": 50, "initial_learning_rate": 0.01, "decay_steps": 2000, "decay_rate": 0.001, "neurons": 30}
